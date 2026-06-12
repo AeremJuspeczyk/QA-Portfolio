@@ -4,16 +4,16 @@ Mis proyectos. El código vive en repositorios **privados**; aquí dejo el *qué
 
 ---
 
-### 🎬 [FilmTracker](filmtracker/) · App web full-stack
+### 🎬 [FilmTracker](FilmTracker/) · App web full-stack
 QA por iniciativa propia (Jira + Gherkin, *bug reports*), auditoría (Lighthouse, SonarCloud) y documentación, sobre una app de catalogación audiovisual.
 `PHP` · `Laravel` · `MariaDB` · `Jira` · `Gherkin`
-**→ [Ver detalle](filmtracker/)**
+**→ [Ver detalle](FilmTracker/)**
 
-### 🎥 [Caligari](caligari/) · IA local de cine (RAG + LLM)
+### 🎥 [Caligari](Caligari/) · IA local de cine (RAG + LLM)
 QA aplicada a un sistema de IA: pruebas anti-invención, *guardrails* + *grounding*, y verificación en vivo.
 `Python` · `Ollama` · `bge-m3` · `ChromaDB` · `RAG`
-**→ [Ver detalle](caligari/)**
+**→ [Ver detalle](Caligari/)**
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/priscila-mansilla-7b6224395/) · CV y acceso a repos, bajo petición.
+📫 [LinkedIn](https://www.linkedin.com/in/priscila-mansilla) · CV y acceso a repos, bajo petición.
