@@ -1,0 +1,24 @@
+<div align="right">
+  <a href="README.md"><b>English</b></a> │ 
+  <a href="README_es.md"><b>Español</b></a>
+</div>
+
+# 🧪 QA Portfolio — Aerem · Priscila Mansilla
+
+My projects. The code lives in **private** repositories; here I document the *what*, the *stack*, and the **QA & quality engineering** work. Want to see the code? **Access available upon request.**
+
+---
+
+### 🎬 [FilmTracker](FilmTracker/) · Full-stack Web App
+Self-driven QA (Jira + Gherkin, bug reports), auditing (Lighthouse, SonarCloud), and documentation for a media cataloging application.
+`PHP` · `Laravel` · `MariaDB` · `Jira` · `Gherkin`
+**→ [View Details](FilmTracker/filmtracker_README.md)**
+
+### 🎥 [Caligari](Caligari/) · Local AI for Cinema (RAG + LLM)
+QA applied to an AI system: anti-hallucination testing, guardrails + grounding, and live verification.
+`Python` · `Ollama` · `bge-m3` · `ChromaDB` · `RAG`
+**→ [View Details](Caligari/caligari_README.md)**
+
+---
+
+📫 [LinkedIn](https://linkedin.com) · Resume and repository access available upon request.
