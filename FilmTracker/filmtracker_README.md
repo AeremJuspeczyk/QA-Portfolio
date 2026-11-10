@@ -1,6 +1,6 @@
 <div align="right">
-  <a href="filmtracker_README.md"><b>English</b></a> │ 
-  <a href="filmtracker_README_eng.md"><b>Español</b></a>
+  <a href="filmtracker_README_eng.md"><b>English</b></a> │ 
+  <a href="filmtracker_README.md"><b>Español</b></a>
 </div>
 
 # 🎬 FilmTracker — App web de cine y series
