@@ -1,6 +1,6 @@
 <div align="right">
-  <a href="README.md">🇬🇧 <b>English</b></a> │ 
-  <a href="README_es.md">🇪🇸 <b>Español</b></a>
+  <a href="README.md"><b>English</b></a> │ 
+  <a href="README_es.md"><b>Español</b></a>
 </div>
 
 # 🧪 QA Portfolio — Aerem · Priscila Mansilla
