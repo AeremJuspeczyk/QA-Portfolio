@@ -1,3 +1,8 @@
+<div align="right">
+  <a href="README.md">🇬🇧 <b>English</b></a> │ 
+  <a href="README_es.md">🇪🇸 <b>Español</b></a>
+</div>
+
 # 🧪 QA Portfolio — Aerem · Priscila Mansilla
 
 Mis proyectos. El código vive en repositorios **privados**; aquí dejo el *qué*, el *stack* y el trabajo de **QA y calidad**. ¿Quieres ver el código? **Acceso bajo petición.**
