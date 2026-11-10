@@ -1,3 +1,8 @@
+<div align="right">
+  <a href="caligari_README.md"><b>English</b></a> │ 
+  <a href="caligari_README_es.md"><b>Español</b></a>
+</div>
+
 # 🎥 Caligari — IA local de cine (RAG + LLM)
 
 ![Caligari](assets/main-page.png)
